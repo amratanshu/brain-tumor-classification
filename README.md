@@ -49,8 +49,6 @@ Classes:
 6. **Testing:**
    - The model is evaluated on the images in the `./dataset/Val` folder, and performance metrics such as test loss and accuracy are calculated.
    - Sample images from the test set are displayed with bounding boxes for visual verification.
-  
-![image](https://github.com/amratanshu/brain-tumor-classification/blob/main/readme-resources/sample-test-images.png)
 
 7. **Saving the Model:**
    - The trained model is saved to a file for future use and deployment.
@@ -73,6 +71,9 @@ The training process involves optimizing the model weights to minimize the cross
 This comprehensive approach ensures that the classifier can accurately identify and classify brain tumors from medical images, contributing to improved diagnostic capabilities.
 
 ## Accuracy achieved
-We achieved an accuracy of ... on the test dataset
+
+![image](https://github.com/amratanshu/brain-tumor-classification/blob/main/readme-resources/sample-test-images.png)
+
+We achieved an accuracy of 0.98 on the test dataset!
 
 ![image](https://github.com/amratanshu/brain-tumor-classification/blob/main/readme-resources/loss-accuracy-epoch%20graph.png)
