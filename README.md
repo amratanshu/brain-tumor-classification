@@ -20,7 +20,7 @@ Classes:
 
 [Link to Kaggle dataset](https://www.kaggle.com/datasets/ahmedsorour1/mri-for-brain-tumor-with-bounding-boxes)
 
-Add images here
+[Image](https://github.com/amratanshu/brain-tumor-classification/blob/main/readme-resources/sample-training-images-1.png)
 
 ## What We Are Doing
 1. **Data Loading and Augmentation:**
